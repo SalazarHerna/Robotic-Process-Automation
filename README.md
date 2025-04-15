@@ -28,7 +28,7 @@ This project automates the process of updating a supplier system using Robotic P
 
 | **Tool/Technology** | **Description**                                                |
 |---------------------|----------------------------------------------------------------|
-| **Programming Language** | UiPath Studio                                                |
+| **Programming Language** | UiPath Studio                                             |
 | **Automation Tool**  | **UiPath** (for Robotic Process Automation)                   |
 | **Data Handling**    | CSV files for importing and exporting supplier information    |
 | **Web Interaction**  | Web automation (using Chrome browser for accessing the supplier system) |
