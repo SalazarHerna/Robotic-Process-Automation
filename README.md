@@ -35,10 +35,10 @@ This project automates the process of updating a supplier system using Robotic P
 
 ---
 ## Steps Taken
-###Step 1: Initial Automation Setup
-###Step 2: Automation Workflow
-###Step 3: Testing Automation
-###Step 4: Final Output
+### Step 1: Initial Automation Setup
+### Step 2: Automation Workflow
+### Step 3: Testing Automation
+### Step 4: Final Output
 
 ---
 ## Conclusions or Recommendations
