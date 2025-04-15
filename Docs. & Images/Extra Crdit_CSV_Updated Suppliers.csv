@@ -1,0 +1,80 @@
+﻿Id,Internal Name,External Name,Website,Industry,Recurrent Supplier,Supplier Since,Number of Employees,City,Street,Zip,State
+79,9964,Kayveo,,,,9/2/2025,360,Knoxville,,37914,TN
+78,9919,Quantum Innovations,,,TRUE,9/2/2025,300,Boston,,2110,MA
+77,9863,Skyndu,,,TRUE,9/2/2025,51,Des Moines,,50369,IA
+76,9642,Fatz,,,TRUE,9/2/2025,67,San Antonio,,78255,TX
+75,9240,Podcat,,,TRUE,9/2/2025,344,Las Vegas,,89125,NV
+74,9120,Rhybox,,,TRUE,9/2/2025,70,El Paso,,88525,TX
+73,9103,Zoovu,,,TRUE,9/2/2025,305,Fresno,,93726,CA
+72,9065,Twitterbeat,,,,9/2/2025,45,Denver,,80204,CO
+71,8913,Oba,,,TRUE,9/2/2025,79,Corpus Christi,,78465,TX
+70,8811,Feedfish,,,,9/2/2025,251,Hampton,,23668,VA
+69,8055,Kwimbee,,,TRUE,9/2/2025,227,Saint Louis,,63136,MO
+68,7784,Omba,,,TRUE,9/2/2025,9,Charleston,,25326,WV
+67,7715,Twitterbeat,,,TRUE,9/2/2025,107,Billings,,59112,MT
+66,7707,NextGen Robotics,,,TRUE,9/2/2025,400,Seattle,,98109,WA
+65,7496,Gabtune,,,TRUE,9/2/2025,167,Vancouver,,98687,WA
+64,6553,Supply Chain Experts,,,TRUE,9/2/2025,250,Chicago,,60601,IL
+63,6475,Brainbox,,,TRUE,9/2/2025,357,Macon,,31205,GA
+62,6314,Linktype,,,,9/2/2025,131,Denver,,80262,CO
+61,6285,Babbleblab,,,TRUE,9/2/2025,124,Marietta,,30061,GA
+60,5810,Edgeclub,,,TRUE,9/2/2025,252,Corpus Christi,,78426,TX
+59,5451,Skajo,,,,9/2/2025,122,Philadelphia,,19136,PA
+58,5270,Plajo,,,TRUE,9/2/2025,194,Dallas,,75231,TX
+57,5203,Babblestorm,,,TRUE,9/2/2025,105,New Haven,,6533,CT
+56,4941,Skyba,,,TRUE,9/2/2025,280,Saint Petersburg,,33731,FL
+55,4913,Plambee,,,TRUE,9/2/2025,72,Buffalo,,14205,NY
+54,4910,Green Energy Co.,,,,9/2/2025,85,Austin,,73301,TX
+53,4904,Avaveo,,,,9/2/2025,202,Kalamazoo,,49048,MI
+52,4724,Buzzdog,,,TRUE,9/2/2025,171,Chattanooga,,37410,TN
+51,4687,Bubbletube,,,,9/2/2025,110,Mobile,,36641,AL
+50,4301,Youtags,,,,9/2/2025,384,Kansas City,,66112,KS
+49,3888,Tagtune,,,,9/2/2025,102,Sioux Falls,,57105,SD
+48,3764,Browsedrive,,,TRUE,9/2/2025,476,Madison,,53710,WI
+47,3437,Lazz,,,,9/2/2025,218,Cincinnati,,45203,OH
+46,3274,Gigabox,,,TRUE,9/2/2025,479,Omaha,,68197,NE
+45,2822,Dynabox,,,,9/2/2025,283,Bakersfield,,93381,CA
+44,2672,Pinnacle Textiles,,,TRUE,9/2/2025,180,Los Angeles,,90012,CA
+43,2465,Kanoodle,,,,9/2/2025,258,Washington,,20016,DC
+42,2397,Dynabox,,,,9/2/2025,413,Birmingham,,35244,AL
+41,2352,Urban Builders Ltd.,,,,9/2/2025,200,New York,,10001,NY
+40,2335,Latz,,,,9/2/2025,358,Wichita Falls,,76305,TX
+39,1700,Thoughtworks,,,,9/2/2025,218,Charleston,,29424,SC
+38,1519,Zazio,,,TRUE,9/2/2025,366,Dallas,,75241,TX
+37,1501,Tech Solutions Inc.,,,,9/2/2025,120,San Francisco,,94103,CA
+36,1441,Rhybox,,,TRUE,9/2/2025,273,Tampa,,33625,FL
+35,1425,Livetube,,,,9/2/2025,21,Wilkes Barre,,18768,PA
+34,1422,Plambee,,,TRUE,9/2/2025,227,Raleigh,,27635,NC
+33,1254,Linkbridge,,,,9/2/2025,110,Pittsburgh,,15225,PA
+32,1103,Skimia,,,,9/2/2025,285,White Plains,,10606,NY
+31,1074,Linktype,,,,9/2/2025,41,Saint Paul,,55172,MN
+1,VPN Services,Secure VPN Provider,www.vpn.com,Communication,TRUE,22/2/2000,2000,Paris,Olala,,France
+2,Energy Provider,ENEL,www.enel.com,Energy,TRUE,22/2/1990,100,Paris,Olala,,France
+3,HR Provider,HR Expert,www.hr.com,Human Resources,TRUE,10/2/2010,100,Paris,Olala,,France
+4,HR Provider,HR Top Recruitment,www.hr.com,Human Resources,TRUE,10/2/2017,100,Paris,Olala,,France
+5,Internet Provider,InterPower Group,www.interpower.com,Telecom,TRUE,10/2/2010,1000,Barcelona,Olala,,Spain
+6,Bank,Smart Bank,www.smartbank.com,Banking,TRUE,23/8/2010,100,New York,Times,,USA
+7,Wood Provider,Creative Wood,www.creativewood.com,Wood,TRUE,10/2/2019,100,Berlin,Hartmangrh,,Germany
+8,Metal Provider,Modern Metal,www.modernmetal.com,Metal,TRUE,10/2/2019,1090,Berlin,Hartmangrh,,Germany
+9,Food Provider,Hungry,www.hungry.com,Food,TRUE,10/2/2018,100,Berlin,Hartmangrh,,Germany
+10,Vegetables Provider,Angry Vegetables,www.angryvegi.com,Agriculture,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+11,Trainers,Expert Trainers,www.trainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+12,Contractors 1,Teams,www.temas.com,Services,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+13,Trainers 2,Tehnical Trainers,www.tehnicaltrainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+14,Trainers 3,Teoretic Trainers,www.trainers.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+15,Courses,Pragmatic,www.pragmatic.com,Education,TRUE,7/2/2018,200,Berlin,Hartmangrh,,Germany
+16,Contractors 3,Zodiac,www.zodiac.com,Services,TRUE,7/7/2016,500,Berlin,Hartmangrh,,Germany
+17,Security,Secure Systems,www.securesystems.com,Services,TRUE,21/03/2015,200,Berlin,Hartmangrh,,Germany
+18,Consultants,Schultz Ltd,www.schultz.com,Services,TRUE,7/2/2017,200,Berlin,Hartmangrh,,Germany
+19,Consultants 2,Purdy LLC,www.purdy.com,Services,TRUE,7/2/2017,200,Berlin,Hartmangrh,,Germany
+20,Devices Rental,Heavy LLC,www.heavy.com,Rentals,TRUE,7/4/2010,400,Berlin,Hartmangrh,,Germany
+21,Accounting,Canoe LLC,www.canoe.com,Accounting,TRUE,7/2/2000,200,Berlin,Hartmangrh,,Germany
+22,Accounting 2,Gemini LLC,www.gemini.com,Accounting,TRUE,7/2/2000,200,Berlin,Hartmangrh,,Germany
+23,Maintanance,sprinty LLC,www.sprinty.com,IT,TRUE,7/2/2009,200,Berlin,Hartmangrh,,Germany
+24,Support,ACC LLC,www.canoe.com,IT,TRUE,7/12/2009,200,Berlin,Hartmangrh,,Germany
+25,Finance,Fast & Finnace LLC,www.fastandfinance.com,Finance,TRUE,6/6/2010,20,Berlin,Hartmangrh,,Germany
+26,Marketing,Big Market LLC,www.bigmarket.com,Marketing,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+27,Management,Safe&Sound LLC,www.safeandsound.com,Management,TRUE,7/9/2006,31,Berlin,Hartmangrh,,Germany
+28,Statistics,Big Market LLC,www.bigmarket.com,Statistics,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+29,Statistics,Small Market LLC,www.bigmarket.com,Statistics,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
+30,Cleaning,Godzilla LLC,www.godzilla.com,Services,TRUE,7/9/2006,200,Berlin,Hartmangrh,,Germany
