@@ -1,7 +1,7 @@
 # Robotic-Process-Automation
 This project automates the process of updating a supplier system using Robotic Process Automation (RPA) with UiPath. The automation includes uploading a supplier list, adding company logos, and updating the system with supplier information. The goal is to streamline and optimize repetitive tasks, reducing the time spent on manual updates. 
 
-- **RPA Flow Diagram**: ![RPA Flow]([./InClass%20Final%20RPA%20Flow%20Supplier%20System.jpg](https://github.com/SalazarHerna/Robotic-Process-Automation/blob/825273dd39f4f94d8b0b05b53ac141d4b5db1457/Docs.%20%26%20Images/InClass%20Final%20RPA%20Flow%20Supplier%20System.jpg))
+- **RPA Flow Diagram**: [RPA Flow]([./InClass%20Final%20RPA%20Flow%20Supplier%20System.jpg](https://github.com/SalazarHerna/Robotic-Process-Automation/blob/825273dd39f4f94d8b0b05b53ac141d4b5db1457/Docs.%20%26%20Images/InClass%20Final%20RPA%20Flow%20Supplier%20System.jpg))
 
 ---
 ## Objectives
